@@ -6,7 +6,7 @@ I'm the systems engineer at a Parkinson's research institute in Fort Lauderdale.
 
 Outside of that role, I build backend systems, integrations and delivery platforms for clients, and AI agent harnesses and orchestration.
 
-Most of my professional work lives in private repositories (employer and client code). The public repositories here are earlier projects: C programs from CS50x Miami, an Arduino elevator controller, and early web and Cordova work.
+Most of my professional work lives in private repositories (employer and client code). The public repositories here are earlier projects: C programs from CS50x Miami, a Pac-Man AI exercise, and early web and Cordova work.
 
 **Core stack:** Linux · Jenkins · CI/CD · Docker · Bash · PowerShell · Python · PHP · React · Flutter · PostgreSQL · MySQL · AWS · Google Cloud · HashiCorp Vault (PKI)
 
